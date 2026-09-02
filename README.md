@@ -4,6 +4,8 @@ This project contains the source material and scripts for generating a two-sided
 Timeline-style card game about the history of computing. The deck contains 65
 cards, from the birth of arithmetic to generative AI. It can be printed in A6, or A7 format.
 
+![Illustration of CS timeline game](cs-timeline_illustration.png)
+
 Game instructions are available in [French](Rules_FR.md) and
 [English](Rules_EN.md).
 
