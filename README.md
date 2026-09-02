@@ -8,7 +8,9 @@ major events that shaped the history of computing. The short explanatory text on
 the back of each card provides context and supports discussion after each event
 has been placed on the timeline.
 
-<img src="cs-timeline_illustration.png" alt="Illustration of CS Timeline game" width="75%">
+<p align="center">
+  <img src="cs-timeline_illustration.png" alt="Illustration of CS Timeline game" width="75%">
+</p>
 
 Game instructions are available in [French](Rules_FR.md) and
 [English](Rules_EN.md).
