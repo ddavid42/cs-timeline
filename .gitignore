@@ -6,8 +6,3 @@ __pycache__/
 card_fr.pptx
 card_en.pptx
 cartes_generees.pptx
-*.pdf
-
-# Regenerated image extraction outputs
-images_new/
-images_cartes_paires/
